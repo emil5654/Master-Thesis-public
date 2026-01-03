@@ -20,7 +20,7 @@ The repository includes:
 - `code/` – model architectures, training loops, evaluation
 - `configs/` – experiment configurations
 - `environment/` – Python environment specifications
-- `data/` – data description (raw data not publicly available)
+- `data/` – data description and preproccessing (raw data not publicly available)
 
 ## Data Availability
 Due to confidentiality, the UAV imagery and annotations used in this thesis are **not publicly available** but access can be given on request.
