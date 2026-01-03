@@ -23,7 +23,7 @@ The repository includes:
 - `data/` – data description (raw data not publicly available)
 
 ## Data Availability
-Due to confidentiality, the UAV imagery and annotations used in this thesis are **not publicly available** but acces can be given on request.
+Due to confidentiality, the UAV imagery and annotations used in this thesis are **not publicly available** but access can be given on request.
 The `data/README.md` describes the dataset structure and how data would be expected to be organized.
 
 ## Environment
