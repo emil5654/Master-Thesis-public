@@ -17,3 +17,12 @@ runs/
 wandb/
 outputs/
 checkpoints/
+OUT_ROOT/**
+*.tif
+*.tiff
+*.geojson
+*.shp
+*.gpkg
+*.npy
+*.png
+labels_master.csv

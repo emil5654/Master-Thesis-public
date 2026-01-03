@@ -1,8 +1,31 @@
-torch
-torchvision
+# Python
+python>=3.9
+
+# Core
 numpy
 pandas
-scikit-learn
-matplotlib
-optuna
+scipy
 tqdm
+
+# Image & raster handling
+rasterio
+Pillow
+
+# Geospatial
+geopandas
+shapely
+pyproj
+
+# Machine learning / deep learning
+torch
+torchvision
+scikit-learn
+optuna
+
+# Visualisation
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
