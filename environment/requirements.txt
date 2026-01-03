@@ -1,17 +1,14 @@
-# Python
-python>=3.9
-
 # Core
 numpy
 pandas
 scipy
 tqdm
 
-# Image & raster handling
+# Image & raster handling (preprocessing)
 rasterio
 Pillow
 
-# Geospatial
+# Geospatial (preprocessing)
 geopandas
 shapely
 pyproj
@@ -22,10 +19,13 @@ torchvision
 scikit-learn
 optuna
 
-# Visualisation
+# Configuration
+pyyaml
+
+# Visualisation (optional, used elsewhere)
 matplotlib
 seaborn
 
-# Jupyter
+# Jupyter (for notebooks)
 jupyter
 ipykernel
